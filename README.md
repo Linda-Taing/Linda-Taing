@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I am Linda!
+💻I am a software Developer! 
+🌱 My current language and techs are C#, Vue.js, MySQL, JavaScript, DotNet, Dapper, MongoDb, express, mongoose, HTML/CSS, Bootstrap. 
+📫 How to reach me: lindatdoan@me.com
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=linda-taing)](https://git.io/streak-stats)
+
 
 <!--
 **Linda-Taing/Linda-Taing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
